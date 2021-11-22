@@ -1,0 +1,16 @@
+"use strict";
+var year = 25;
+year = true;
+console.log(year);
+year = "mario";
+console.log(year);
+year = { name: "mario" };
+console.log(year);
+var mixedArray = [];
+mixedArray.push(5);
+mixedArray.push("mario");
+mixedArray.push(true);
+console.log(mixedArray);
+var ninja;
+ninja = { name: 34, age: "mario" };
+console.log(ninja);
